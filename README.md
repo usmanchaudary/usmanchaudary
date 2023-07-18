@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @usmanchaudary
 - 👀 I’m interested in creating frameworks
-- 🌱 I’m currently learning MAUI
+- 🌱 I’m currently learning Source Generators
 - 💞️ I’m looking to collaborate on libraries
 - 📫 How to reach me chusman2229@gmail.com
 
